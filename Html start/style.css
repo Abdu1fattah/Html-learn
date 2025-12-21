@@ -1,0 +1,18 @@
+html{
+    background-color: rgb(247, 229, 221);
+    text-align: center;
+}
+h1 {
+    color:brown;
+    text-align: center;
+}
+h2 {
+    background-color: brown;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+}
+img{
+    position: static;
+    border-radius: 50%;
+}
